@@ -3,7 +3,7 @@
 
 - 🔭 Working on **Rum Network**  
 - 🌱 Learning **Web3 & Blockchain**  
-- 💬 Ask me about **React Native, Crypto, and App Development**  
+- 💬 Ask me about **React Native, Crypto, Nodejs, Express and App Development**  
 
 📫 **Connect with me:**  
 
