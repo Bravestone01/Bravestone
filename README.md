@@ -26,11 +26,17 @@
 ## 📊 **GitHub Stats**  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bravestone01&show_icons=true&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bravestone01&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bravestone01&layout=compact&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bravestone01&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bravestone01&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bravestone01&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bravestone01&theme=dark" />
 </p>
 
 ---
