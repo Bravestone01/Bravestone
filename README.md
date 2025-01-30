@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mujtaba Shah!  
+# 👋 Hi, I'm Ghulam Mujtaba Shah!  
 ### 🚀 React Native | MERN Developer  
 
 - 🔭 Working on **MERN PROJECTS**  
