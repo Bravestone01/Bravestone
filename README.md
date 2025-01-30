@@ -24,9 +24,8 @@
 ---
 
 ## 📊 **GitHub Stats**  
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bravestone01&theme=dark" />
+  <img src="https://github.com/Bravestone01.png" width="150" height="150" style="border-radius: 50%" />
 </p>
 
 <p align="center">
