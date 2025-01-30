@@ -24,18 +24,9 @@
 ---
 
 ## 📊 **GitHub Stats**  
-<p align="center">
-  <img src="https://github.com/Bravestone01.png" width="150" height="150" style="border-radius: 50%" />
-</p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bravestone01&theme=dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bravestone01&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bravestone01&theme=dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bravestone01&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bravestone01&theme=dark" />
 </p>
 
 ---
@@ -43,11 +34,4 @@
 ## 🏆 **GitHub Achievements**  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Bravestone01&theme=darkhub" />
-</p>
-
----
-
-## 🔥 **GitHub Activity Graph**  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bravestone01&theme=redical" />
 </p>
