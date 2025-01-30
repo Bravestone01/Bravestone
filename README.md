@@ -16,8 +16,8 @@
 ---
 
 ## 📊 **GitHub Stats**  
-![Mujtaba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithub&layout=compact&theme=radical)  
+![Mujtaba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bravestone01&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bravestonr01&layout=compact&theme=radical)  
 
 
 
