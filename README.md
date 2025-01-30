@@ -4,7 +4,7 @@
 - 🔭 Working on **MERN PROJECTS**  
 - 🌱 Learning **Web3 & Blockchain**  
 - 💬 Ask me about **React Native, Crypto, Node.js, Express, and App Development**
-- - 🎓 **Bachelor's Degree in Information Technology** 
+- 🎓 **Bachelor's Degree in Information Technology** 
 
 ---
 
